@@ -1,7 +1,7 @@
 # Jeremiah Garcia
 
 **Role:** Resident, fiscal accountability advocate
-**Phone:** +19708223083
+**Phone:** [redacted]
 
 ## Contributions
 - Flagged the enterprise fund admin allocation issue (March 2026)
