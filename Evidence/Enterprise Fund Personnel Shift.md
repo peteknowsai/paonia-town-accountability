@@ -36,6 +36,22 @@ General Fund admin looks like it SHRANK. But total personnel is up $531K. The gr
 
 Wastewater went from $192K to $475K in personnel — a **147% increase** — while Water/WW operational staff stayed flat at 3.0 FTE combined. Where is all this money going?
 
+## The Double Hit — Both Sides Grew
+
+The shift didn't replace GF spending with enterprise spending. It ADDED enterprise charges on top of continued GF growth:
+
+| | FY-2023 | FY-2026 | Change |
+|---|---|---|---|
+| GF Personnel | $1,091K | $1,234K | +$143K (+13%) |
+| Enterprise Personnel | $760K | $1,184K | +$424K (+56%) |
+| **Total** | **$1,851K** | **$2,419K** | **+$567K (+31%)** |
+
+If the admin salary hadn't been shifted, GF admin would show ~$290K instead of $184K — a 23% increase that's much harder to explain to residents.
+
+Both taxpayers (GF) AND ratepayers (enterprise) are paying more. The cost didn't move — it multiplied.
+
+**Caution on year-over-year comparisons:** Some FY-2023 enterprise numbers look abnormally low (likely vacancies or allocation changes). FY-2024 to FY-2026 comparisons are more reliable. The wastewater "doubling" is partly a base year issue. The honest framing is ~50-55% enterprise personnel growth since FY-2024.
+
 ## The Questions
 1. Did the Board authorize these personnel cost shifts?
 2. Is there timekeeping to justify enterprise fund charges?
