@@ -1,92 +1,122 @@
 # STR Initiative
 
-**Status:** Rejected by Town Clerk (May 25, 2025); Resubmitted September 3, 2025 (omnibus)
-**Version:** v1
-**The first initiative — the one that exposed the pattern.**
+**Status:** Draft v3 complete, ready for submission
+**Version:** v3 (March 2026) — complete rewrite to defeat "administrative" claims
+**Print-ready:** `~/Desktop/str-lodging-petition-v3-PRINT.docx` / `.pdf`
+**Google Doc:** [Working copy](https://docs.google.com/document/d/1yFCsDeNwfi7X5RleZeM3b69pRtoLFV5y2kLQtTXT-h8)
+**Public review:** [Paonia Initiatives - Public Review](https://drive.google.com/drive/folders/1YSGiBN2wpvHLE0adcAGKfLDscAtyrm4C)
+
+## History
+- **v1 (May 2025):** Rejected by Town Clerk claiming it "establishes fees" — when text explicitly eliminated them. Came 2 months after 70.4% of voters (381-160) rejected the Board's restrictive STR ordinance.
+- **v2 (Aug 2025):** Shelved due to personal circumstances.
+- **v3 (March 2026):** Complete rewrite. Pure land use policy framing. No grandfathering, no phasing, no enforcement timelines, no fee schedules. Stripped every hook the clerk could grab.
 
 ## Summary
-Protects resident right to host guests in principal residence. Eliminates all fees for resident-occupied STR. Phases out non-resident STRs by June 2026.
+Establishes land use policy: resident-occupied hosting is a permitted use in every zoning district (no license/fee required). Non-resident short-term rentals are a prohibited use in every zoning district. Voter-only amendment/repeal.
 
-## The Rejection
-[[Samira Vetter]] rejected claiming it "establishes fees" — when text explicitly eliminated them. Came 2 months after 70.4% of voters (381-160) rejected the Board's restrictive STR ordinance.
+## v3 Changes (from v2)
+- **WHEREAS recitals cite *Vagneur v. City of Aspen*** — the controlling test the clerk's own attorney referenced
+- **Killed "Prior authorizations" section** — terminating specific existing permits looked administrative. Replaced with general conflicts clause.
+- **Killed "No nonconforming status"** — prohibited use can't be nonconforming by definition
+- **Effective date fixed** — upon certification (not 30 days), per Bill's feedback that initiated ordinances take effect on certification
+- **Host must be present** — "while the host resides in the dwelling unit during the guest's stay" draws a bright line
+- **Zoning language throughout** — "permitted use" / "prohibited use" / "in every zoning district" = textbook legislative
+
+## What Was Removed to Defeat "Administrative" Claims
+- No grandfathering scheme
+- No phasing timeline
+- No enforcement timelines or proof windows
+- No fee schedules of any kind
+- No specific permit termination language
+
+## Key Legal Anchors
+- *Vagneur v. City of Aspen* — legislative acts are rules of general applicability
+- *Blackwell* test — permanent law, declares policy, applies generally
+- Land use classification is the most clearly legislative power a municipality has
+- April 1, 2025 voter rejection of restrictive STR regs (70.4%)
 
 ## Related
+- [[Camera Ban Initiative]]
+- [[Robot Moratorium]]
 - [[Samira Vetter]]
 - [[Clay Buchner]]
 - [[Obstruction Pattern]]
-- [[Omnibus Cover Letter]]
 
 ---
 
-# FULL TEXT: ORDINANCE + COVER LETTER
+# FULL TEXT: ORDINANCE
 
-# CITIZEN INITIATIVE PETITION
+## ORDINANCE NO. 2026-__
 
-TO THE TOWN CLERK OF PAONIA:
-
-We, the undersigned registered electors of the Town of Paonia, Colorado, hereby propose the following ordinance be submitted to the registered electors of the Town for their approval or rejection at the next regular or special election:
-
----
-
-## ORDINANCE NO. 2025-__
-
-## AN INITIATED ORDINANCE ESTABLISHING THE RIGHT OF PAONIA RESIDENTS TO HOST SHORT-TERM GUESTS IN THEIR PRINCIPAL RESIDENCE
+**AN INITIATED ORDINANCE OF THE PEOPLE OF THE TOWN OF PAONIA, COLORADO, ESTABLISHING LAND USE POLICY FOR SHORT-TERM LODGING**
 
 ### RECITALS
 
-**WHEREAS**, hosting guests is a fundamental property right; and
+**WHEREAS**, the Town of Paonia is a statutory municipality organized under C.R.S. § 31-1-203; and
 
-**WHEREAS**, residents using their home as their principal residence should be free from government interference when hosting guests; and
+**WHEREAS**, C.R.S. §§ 31-15-101 and 31-15-401 grant statutory municipalities police-power authority to protect the health, safety, and welfare of its citizens; and
 
-**WHEREAS**, on April 1, 2025, voters overwhelmingly rejected restrictive regulations;
+**WHEREAS**, the classification of permitted and prohibited land uses within zoning districts is a legislative act of general applicability under Colorado law; and
 
-**NOW, THEREFORE, BE IT ORDAINED BY THE PEOPLE OF THE TOWN OF PAONIA:**
+**WHEREAS**, the Colorado Supreme Court in Vagneur v. City of Aspen holds that legislative acts are those that establish rules or policies of general applicability governing future conduct for the community at large; and
 
----
+**WHEREAS**, on April 1, 2025, the voters of Paonia rejected a ballot measure proposing more restrictive short-term rental regulations, demonstrating the electorate's policy preference; and
 
-### SECTION 1. RIGHTS DECLARED
+**WHEREAS**, the People of Paonia wish to establish a clear, town-wide land use policy that permits residents to host short-term guests in their own homes while prohibiting the conversion of residential housing stock into commercial lodging operations by absentee owners;
 
-The following rights are hereby established:
+**NOW, THEREFORE, BE IT ORDAINED BY THE PEOPLE OF THE TOWN OF PAONIA, COLORADO:**
 
-- Residents may host short-term guests in their principal residence without restriction
+### Section 1. Title.
 
-- This includes renting individual rooms or the entire home
+This initiated ordinance shall be known and cited as the "Short-Term Lodging Policy."
 
-- No fees, licenses, or permits required for principal residence hosting
-
-- The Town shall not regulate resident hosting
-
-### SECTION 2. DEFINITIONS
+### Section 2. Definitions.
 
 For purposes of this ordinance:
 
-- **"Short-term"** means fewer than 30 consecutive days
+(a) **"Short-term lodging"** means the rental or hosting of guests for compensation in a dwelling unit for fewer than thirty (30) consecutive days.
 
-- **"Principal residence"** has the same meaning as under federal tax law
+(b) **"Principal residence"** means the one dwelling unit in which a natural person resides as their true, fixed, and permanent home and to which they intend to return. A person may have only one principal residence. Occupancy of at least one hundred eighty-three (183) days per calendar year creates a rebuttable presumption of principal residence.
 
-- **"Non-resident rental"** means any short-term rental not in a principal residence
+(c) **"Resident-occupied hosting"** means short-term lodging in a dwelling unit that is the host's principal residence, while the host resides in the dwelling unit during the guest's stay.
 
-### SECTION 3. NON-RESIDENT RENTAL POLICY
+(d) **"Non-resident short-term rental"** means any short-term lodging that does not qualify as resident-occupied hosting.
 
-The following policies shall apply to non-resident short-term rentals:
+### Section 3. Resident-Occupied Hosting — Permitted Use.
 
-- **Prohibited:** All new non-resident short-term rentals
+(a) **Permitted by right.** Resident-occupied hosting is a permitted use in every zoning district. No special-use permit, conditional-use permit, or other discretionary land-use approval is required.
 
-- **Grandfathered:**
-  - Multi-family/commercial: May continue indefinitely
-  - Single-family homes: Must cease by June 30, 2026
+(b) **No license or fee.** No municipal license, permit, registration, or fee of any kind shall be required for resident-occupied hosting.
 
-### SECTION 4. VIOLATIONS
+(c) **General laws preserved.** Nothing in this ordinance limits the applicability of building, fire, noise, nuisance, or health regulations of general applicability that do not single out or discriminate against short-term lodging.
 
-Violations of this ordinance constitute unlawful acts subject to penalties under the Paonia Municipal Code.
+### Section 4. Non-Resident Short-Term Rentals — Prohibited Use.
 
-### SECTION 5. GENERAL PROVISIONS
+(a) **Prohibited in all districts.** Non-resident short-term rentals are a prohibited land use in every zoning district.
 
-- Voter approval required to impose fees or extend the 2026 sunset
+(b) **Unlawful activity.** It is unlawful to operate, advertise, or offer a non-resident short-term rental within the Town.
 
-### SECTION 6. EFFECTIVE DATE
+### Section 5. Conflicts with Existing Law.
 
-Thirty days after election certification.
+To the extent any existing ordinance, regulation, or provision of the municipal code conflicts with this ordinance, this ordinance controls. All conflicting provisions are repealed to the extent of the conflict.
+
+### Section 6. Enforcement.
+
+(a) A violation of this ordinance is subject to penalties provided by the Paonia Municipal Code for ordinance violations.
+
+(b) Any registered elector of the Town may seek injunctive relief in Delta County District Court to enforce this ordinance. A prevailing plaintiff shall be entitled to reasonable attorney fees and costs.
+
+### Section 7. Amendment and Repeal.
+
+This ordinance may only be amended or repealed by vote of the registered electors of the Town.
+
+### Section 8. Severability.
+
+If any provision of this ordinance is held invalid by a court of competent jurisdiction, the remaining provisions shall continue in full force and effect.
+
+### Section 9. Effective Date.
+
+This ordinance takes effect upon certification of election results.
 
 ---
 
@@ -94,125 +124,9 @@ Thirty days after election certification.
 
 Date: _______________________
 
-**ATTEST:**
-
-_______________________________
+**Attest:** ________________________________
 Town Clerk
 
 **CERTIFICATION**
 
-I hereby certify that the foregoing ordinance was adopted by the qualified electors of the Town of Paonia, Colorado at the election held on _____________, 2025.
-
-_______________________________
-Town Clerk
-
----
-
-## SIGNATURE COLLECTION SECTION
-
-**WARNING:** IT IS AGAINST THE LAW: For anyone to sign any initiative petition with any name other than his or her own or to knowingly sign his or her name more than once for the same measure or to knowingly sign a petition when not a registered elector who is eligible to vote on the measure.
-
-**DO NOT SIGN THIS PETITION UNLESS YOU ARE A REGISTERED ELECTOR OF THE TOWN OF PAONIA**
-
-| # | Signature | Printed Name | Residence Address | Date |
-|---|-----------|--------------|-------------------|------|
-| 1 | _________ | ____________ | _________________ | ____ |
-| 2 | _________ | ____________ | _________________ | ____ |
-| 3 | _________ | ____________ | _________________ | ____ |
-
-[Continue for required number of signature lines]
-
----
-
-## AFFIDAVIT OF CIRCULATOR
-
-I, ________________________, swear or affirm that:
-1. I have read and understand the laws governing the circulation of petitions
-2. I circulated this petition and witnessed each signature
-3. Each signature is of a registered elector of the Town of Paonia
-4. To the best of my knowledge, each signature is genuine
-
-_______________________________
-Signature of Circulator
-
-State of Colorado     )
-                     ) ss.
-County of Delta      )
-
-Subscribed and sworn before me this ___ day of _______, 2025.
-
-_______________________________
-Notary Public
-
----
-
-## COVER LETTER FOR SUBMISSION
-
-09/03/2025
-
-Town Clerk
-Town of Paonia
-214 Grand Avenue
-Paonia, CO 81428
-
-**Re: Submission of Citizen Initiative Petition - Short-Term Rental Regulation**
-
-Dear Town Clerk,
-
-I hereby resubmit this citizen initiative petition which establishes legislative policy protecting the fundamental right of residents to host guests in their principal residence.
-
-**This Initiative is Clearly Legislative Because It:**
-
-1. **Eliminates existing fees** - a quintessential legislative act
-2. **Creates regulatory categories** distinguishing resident from non-resident rentals
-3. **Establishes prospective policy** applying to all future STR operations
-4. **Makes fundamental policy choices** about property rights and regulation
-5. **Phases out certain uses** while protecting others - classic legislative line-drawing
-
-**The Initiative Does NOT:**
-- Direct specific administrative actions
-- Address individual properties or owners
-- Interfere with day-to-day operations
-- Create administrative burdens
-
-**Your Previous Rejection Was In Error:**
-
-You claimed this initiative "establishes fees" when it explicitly ELIMINATES them. This fundamental misreading suggests either:
-- The rejection was predetermined without actual review
-- There is a concerning lack of attention to citizen initiatives
-- The rejection was made in bad faith
-
-
-**Context - The Voter Mandate:**
-
-On April 1, 2025, 70.4% of Paonia voters rejected restrictive STR regulations. This initiative honors that overwhelming mandate by protecting resident hosting rights while addressing community concerns about investor-owned rentals.
-
-**Legal Framework:**
-
-Per *City of Idaho Springs v. Blackwell*, 731 P.2d 1250 (Colo. 1987), creating regulatory categories and eliminating fees are legislative acts. Per *Margolis v. District Court*, 638 P.2d 297 (Colo. 1981), prospective regulations are legislative.
-
-As a STATUTORY TOWN, Paonia must follow C.R.S. § 31-11-104, which grants broad initiative powers. Your attempt to narrow these powers contradicts both statute and precedent.
-
-
-**Key Legislative Elements:**
-
-- Eliminates all fees for resident hosting
-- Creates distinct regulatory categories
-- Establishes sunset provisions
-- Requires voter approval for changes
-- Sets prospective policy standards
-
-These are textbook legislative functions that belong to the People.
-
-Please confirm receipt and acceptance of this petition for circulation within five (5) business days. Any concerns should be provided in writing with specific statutory citations.
-
-The fundamental question - should residents be free to host guests in their own homes without government fees or interference - is exactly the type of policy question voters must decide.
-
-Respectfully submitted,
-
-Pete McCarthy
-119 1/2 Dorris Ave, CO 81428
-
-cc: Town Attorney
-    Mayor
-    Board of Trustees
+I hereby certify that the foregoing ordinance was adopted by the qualified electors of the Town of Paonia, Colorado, at the election held on ______________________.

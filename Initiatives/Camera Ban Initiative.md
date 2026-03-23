@@ -1,36 +1,37 @@
 # Camera Ban Initiative
 
-**Status:** Draft v2 complete, ready for submission
-**Version:** v2 (March 2026) — tightened from v1
-**Source file:** `~/Projects/paonia-surveillance-watch/public/initiatives/camera-ban/camera-ban-initiative-v2.md`
-**PDF:** `~/Desktop/camera-ban-initiative-v2.pdf`
+**Status:** Draft v3 complete, ready for submission
+**Version:** v3 (March 2026) — added privacy-led recitals, critical infrastructure exception, tightened from v2
+**Print-ready:** `~/Desktop/camera-ban-petition-v3-PRINT.docx` / `.pdf`
+**Google Doc:** [Working copy](https://docs.google.com/document/d/1ddHGTw5WOGnEwqCxRP_GlpU0rlIomuh0zPGtBiV2m-8)
+**Public review:** [Paonia Initiatives - Public Review](https://drive.google.com/drive/folders/1YSGiBN2wpvHLE0adcAGKfLDscAtyrm4C)
 
 ## Summary
-Prohibits the Town from installing, operating, or maintaining surveillance cameras on public property. Requires removal of existing Verkada cameras within 90 days. Can only be amended or repealed by voter approval.
+Prohibits the Town from installing, operating, or maintaining surveillance cameras on public property. Requires compliance within 90 days. Can only be amended or repealed by voter approval.
 
-## Key Provisions
-- Three exceptions: body cams, warrant-authorized, public meeting streaming
-- Violating contracts are void
+## v3 Changes (from v2)
+- **Privacy-led recitals** — right to move freely without surveillance leads; First Amendment secondary
+- **Critical infrastructure exception** — cameras on unmanned facilities not accessible to public (e.g., water plant), but must be directed solely at facility, not capturing streets/sidewalks
+- **Four exceptions total:** body cams, warrant-authorized, public meeting streaming, critical infrastructure
+- Violating contracts void
 - Citizen enforcement with attorney fees
 - Knowing violation = official misconduct
 
+## Key Legal Anchors
+- *Vagneur v. City of Aspen* — legislative acts are rules of general applicability
+- *Blackwell* test — permanent law, declares policy, applies generally
+- Privacy framing resonates across political spectrum in small-town Colorado
+
 ## Related
 - [[Robot Moratorium]]
+- [[Water Meter Privacy Initiative]]
 - [[Verkada History]]
 - [[Obstruction Pattern]]
 - [[Omnibus Cover Letter]]
 
 ---
 
-# FULL TEXT: ORDINANCE + COVER LETTER
-
-## CITIZEN INITIATIVE PETITION
-
-TO THE TOWN CLERK OF PAONIA:
-
-We, the undersigned registered electors of the Town of Paonia, Colorado, hereby propose the following ordinance be submitted to the registered electors of the Town for their approval or rejection at the next regular or special election:
-
----
+# FULL TEXT: ORDINANCE
 
 ## ORDINANCE NO. 2026-__
 
@@ -42,11 +43,15 @@ We, the undersigned registered electors of the Town of Paonia, Colorado, hereby 
 
 **WHEREAS**, C.R.S. §§ 31-15-101 and 31-15-401 grant statutory municipalities police-power authority to protect the health, safety, and welfare of its citizens; and
 
+**WHEREAS**, residents of Paonia have a fundamental right to move freely through their own town without being surveilled, recorded, tracked, or identified by their government; and
+
 **WHEREAS**, the right of the People to determine the scope of government surveillance in their community is a fundamental policy choice reserved to the electorate; and
 
-**WHEREAS**, persistent video monitoring of public spaces creates a chilling effect on the exercise of First Amendment rights, including speech, assembly, and the right to petition the government; and
+**WHEREAS**, government surveillance of public spaces intrudes upon the privacy of every resident who walks to the post office, visits a neighbor, attends a church, or simply goes about daily life, and such pervasive monitoring is incompatible with the character of a small, self-governing community; and
 
-**WHEREAS**, in a community of approximately 1,500 residents, government surveillance cameras enable identification and monitoring of substantially all civic participants, creating conditions incompatible with free democratic participation;
+**WHEREAS**, persistent video monitoring of public spaces also creates a chilling effect on the exercise of First Amendment rights, including speech, assembly, and the right to petition the government; and
+
+**WHEREAS**, in a community of approximately 1,500 residents, government surveillance cameras enable identification and monitoring of substantially all residents, eliminating the practical anonymity that has historically characterized life in a small town;
 
 **NOW, THEREFORE, BE IT ORDAINED BY THE PEOPLE OF THE TOWN OF PAONIA, COLORADO:**
 
@@ -70,7 +75,7 @@ For purposes of this ordinance:
 
 (b) **No third-party circumvention.** The Town shall not contract with or authorize any third party to install, operate, or maintain surveillance cameras on public property on the Town's behalf.
 
-(c) **Removal of existing cameras.** Any surveillance cameras installed on public property as of the effective date of this ordinance shall be permanently disabled and physically removed within ninety (90) days.
+(c) **Compliance period.** The Town shall have ninety (90) days from the effective date of this ordinance to come into compliance with the prohibition established in subsections (a) and (b).
 
 ### Section 4. Exceptions.
 
@@ -81,6 +86,8 @@ The following are not prohibited by this ordinance:
 (b) **Warrant-authorized cameras** used temporarily for a specific criminal investigation pursuant to a court order, which shall be removed upon expiration of the order.
 
 (c) **Public meeting cameras** used solely for live-streaming or recording open public meetings to promote transparency, provided such cameras are not used for any other purpose.
+
+(d) **Critical infrastructure cameras** monitoring unmanned critical infrastructure facilities that are not accessible to the general public, provided such cameras are directed solely at the facility and do not capture images of public streets, sidewalks, or other areas accessible to the general public.
 
 ### Section 5. Contracts Void.
 
@@ -110,91 +117,11 @@ This ordinance takes effect thirty (30) days after certification of election res
 
 **ADOPTED BY THE PEOPLE OF THE TOWN OF PAONIA, COLORADO**
 
----
+Date: _______________________
 
-## COVER LETTER
-
-[Date]
-
+**Attest:** ________________________________
 Town Clerk
-Town of Paonia
-214 Grand Avenue
-Paonia, CO 81428
 
-**Re: Submission of Citizen Initiative Petition — Prohibition of Surveillance Cameras on Public Property**
+**CERTIFICATION**
 
-Dear Town Clerk,
-
-I hereby submit this citizen initiative petition proposing an ordinance that establishes legislative policy prohibiting government surveillance cameras on public property within the Town of Paonia.
-
-### I. THIS INITIATIVE IS LEGISLATIVE
-
-The proposed ordinance satisfies every element of the legislative test established by the Colorado Supreme Court:
-
-**Under the Blackwell test** (*City of Montrose v. Pub. Utils. Comm'n*, 629 P.2d 619 (Colo. 1981)):
-1. **Creates permanent law** — establishes an ongoing prohibition, not a one-time act
-2. **Declares policy** — "The Town shall not install, operate, or maintain surveillance cameras on public property"
-3. **Applies generally** — binds all Town departments, officials, and contractors uniformly
-
-**Under *Vagneur v. City of Aspen*, 295 P.3d 493 (Colo. 2013)**, the initiative power must be "liberally construed" in favor of the people's right to legislate. Setting limits on government surveillance authority is a fundamental policy determination — the same category of legislative act as restricting police powers, prohibiting certain land uses, or limiting government spending.
-
-**The initiative does NOT:**
-- Direct specific administrative actions
-- Target individual employees or contractors
-- Interfere with day-to-day municipal operations
-- Create licensing, permitting, or fee structures
-
-This is a policy prohibition with general application. It is legislative on its face.
-
-### II. PAONIA IS A STATUTORY TOWN
-
-This distinction is dispositive. Paonia is organized under C.R.S. § 31-1-203 as a statutory municipality — **not** a home rule municipality. The scope of the initiative power in statutory towns is governed by state statute, not by local charter. Any analysis applying home rule limitations to Paonia's initiative process is legally erroneous.
-
-I raise this because the Town Attorney's September 2025 memorandum regarding prior initiatives relied on authorities distinguishing home rule powers. That analysis does not apply here.
-
-### III. NOTICE REGARDING PRIOR OBSTRUCTION
-
-I am compelled to put the Town on formal notice regarding a documented pattern of conduct that this office should weigh carefully before acting on this petition.
-
-**The record shows:**
-
-1. **False basis for initiative rejection.** On May 25, 2025, the Town Clerk rejected a citizen initiative claiming it would "establish fees" when the initiative text explicitly *eliminated* fees. This misreading was so fundamental as to raise questions about whether the rejection was made in good faith. (C.R.S. § 31-11-106.)
-
-2. **Illegal executive session.** On June 10, 2025, the Board convened in executive session to discuss "Initiative Petitions" — a matter already decided and not within any authorized purpose under C.R.S. § 24-6-402(4). Using executive session to strategize against citizen petitions is a violation of the Colorado Open Meetings Law.
-
-3. **Removal of oversight-minded trustee.** On August 15, 2024, the Board voted 4-1 to remove Trustee Bill Brunner — elected with 67.7% of the vote — after the Town Administrator issued an ultimatum conditioning his continued employment on Brunner's removal. Brunner's conduct consisted of exercising oversight, requesting records, and asking questions. This removal chilled democratic participation by every remaining elected official.
-
-4. **Surveillance deployment without public process.** The Town approved a $50,000 Verkada surveillance camera system and deployed autonomous robots on public streets — both without public notice, public hearing, or opportunity for citizen input. The Town simultaneously claimed insufficient resources to process citizen initiatives.
-
-5. **Records obstruction.** CORA requests for Microsoft 365 audit logs were denied on the basis that responsive records do not exist — a technical impossibility given that Microsoft 365 generates audit logs automatically and they cannot be fully disabled.
-
-**This pattern — rejecting initiatives on false grounds, holding illegal executive sessions about petitions, removing elected officials who exercise oversight, expanding surveillance while blocking democratic participation, and obstructing public records — constitutes a systematic deprivation of the constitutional right to petition.**
-
-### IV. LEGAL CONSEQUENCES OF OBSTRUCTION
-
-If this petition is rejected, refused for circulation, or obstructed on any basis, I will pursue the following remedies without further notice:
-
-1. **C.R.C.P. Rule 106(a)(4)** judicial review of any rejection as an abuse of discretion
-2. **Mandamus** under C.R.C.P. Rule 106(a)(2) compelling acceptance and placement on the ballot
-3. **42 U.S.C. § 1983** civil rights action for deprivation of First Amendment petition rights under color of law
-4. **Criminal referral** to the Delta County District Attorney and the Colorado Attorney General for willful obstruction of the initiative process
-5. **Referral to the FBI** for investigation of a pattern of civil rights deprivation under 18 U.S.C. § 241 (conspiracy against rights) and 18 U.S.C. § 242 (deprivation of rights under color of law)
-
-I am documenting this submission and all subsequent actions by the Town for use in any proceeding.
-
-### V. REQUEST
-
-Please confirm receipt and acceptance of this petition for circulation within five (5) business days per C.R.S. § 31-11-106. Any basis for rejection must be provided in writing with specific legal citations.
-
-The question of whether government should conduct persistent video surveillance of its citizens in public spaces is a policy determination that belongs to the People. This initiative places that question before them. The Town's role is ministerial: accept the petition and let the voters decide.
-
-Respectfully submitted,
-
-Pete McCarthy
-119 1/2 Dorris Ave
-Paonia, CO 81428
-
-cc: Colorado Attorney General
-    Delta County District Attorney
-    Colorado Freedom of Information Coalition
-    ACLU of Colorado
+I hereby certify that the foregoing ordinance was adopted by the qualified electors of the Town of Paonia, Colorado, at the election held on ______________________.
