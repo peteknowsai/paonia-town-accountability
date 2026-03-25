@@ -125,3 +125,99 @@ Town Clerk
 **CERTIFICATION**
 
 I hereby certify that the foregoing ordinance was adopted by the qualified electors of the Town of Paonia, Colorado, at the election held on ______________________.
+
+---
+
+# COVER LETTER FOR SUBMISSION
+
+[Date]
+
+Samira M. Vetter, Town Clerk
+Town of Paonia
+214 Grand Avenue
+PO Box 460
+Paonia, CO 81428
+
+**Re: Submission of Citizen Initiative Petition — Surveillance Camera Prohibition**
+
+Dear Ms. Vetter,
+
+I hereby submit this citizen initiative petition proposing an ordinance entitled the "Surveillance Camera Prohibition." This ordinance establishes a general policy prohibiting the Town from installing, operating, or maintaining surveillance cameras on public property, with four defined exceptions.
+
+For the reasons set forth below, this initiative proposes municipal legislation within the meaning of C.R.S. § 31-11-106(1) and Article V, Section 1(9) of the Colorado Constitution.
+
+### I. THIS ORDINANCE IS LEGISLATIVE UNDER THE CONTROLLING TEST
+
+Under *Vagneur v. City of Aspen*, 295 P.3d 493 (Colo. 2013), legislative acts are those that "establish rules or policies of general applicability" governing "future conduct for the community at large." Administrative acts, by contrast, "involve the application or execution of existing policies to specific cases."
+
+This ordinance establishes a single rule of general applicability: the Town shall not install, operate, or maintain surveillance cameras on public property. This rule:
+
+- Applies uniformly to all Town departments, officials, employees, and contractors
+- Governs future conduct prospectively
+- Does not target any individual, contract, or specific decision
+- Does not direct staff to take action in a specific case
+
+Setting the scope of government surveillance authority is a fundamental policy determination — the same category of legislative act as restricting police powers, prohibiting certain land uses, or limiting government spending. The people have the constitutional right to make this determination through the initiative process.
+
+### II. POTENTIAL OBJECTIONS AND WHY THEY FAIL
+
+**A. "This interferes with public safety decisions."**
+
+Determining the permissible scope of government surveillance is a policy choice, not an operational decision. The ordinance does not direct how the Town deploys law enforcement or manages public safety — it establishes a general prohibition on one category of technology. Legislative bodies routinely set policy limits on government surveillance authority. See, e.g., the California Electronic Communications Privacy Act (CalECPA), which prohibits warrantless government access to electronic communications; the Illinois Biometric Information Privacy Act (BIPA), which restricts biometric surveillance; and numerous municipal surveillance technology ordinances enacted by initiative and legislation across the country.
+
+**B. "The compliance period directs staff action."**
+
+Section 3(c) provides 90 days to come into compliance. This is not a specific directive to particular employees — it is the standard transitional mechanism used in legislation to give the regulated party time to adjust. Every ordinance with an effective date implicitly requires compliance. A defined compliance period is more orderly, not more administrative.
+
+**C. "Voiding contracts is an administrative act."**
+
+Section 5 declares violating contracts void. This is a standard legislative provision. The Colorado General Assembly routinely enacts statutes voiding contracts that violate public policy. See, e.g., C.R.S. § 8-2-113 (voiding overbroad non-compete agreements). Declaring a class of contracts void as a matter of policy is legislative, not case-specific.
+
+**D. "The exceptions create an administrative framework."**
+
+The four exceptions (body cameras, warrant-authorized cameras, public meeting cameras, critical infrastructure cameras) are definitional boundaries of the general prohibition — not a licensing or permitting scheme. They do not require staff evaluation, application review, or case-by-case determination. They are self-executing categories.
+
+### III. NO ADMINISTRATIVE APPARATUS IS CREATED
+
+This ordinance does not:
+
+- Create any license, permit, registration, or fee
+- Establish any review process or application procedure
+- Direct staff to take specific actions regarding specific cameras
+- Require case-by-case evaluation of any request
+- Create any administrative enforcement mechanism beyond existing law
+
+The ordinance is a policy prohibition with categorical exceptions. It sets a general rule and lets existing law handle implementation.
+
+### IV. PAONIA IS A STATUTORY TOWN
+
+Paonia is organized under C.R.S. § 31-1-203 as a statutory municipality. The initiative power in statutory towns is governed by C.R.S. § 31-11-104 et seq. and must be construed in favor of the electorate. Any analysis applying home rule limitations is inapplicable.
+
+### V. PRIOR REJECTION OF STR INITIATIVE
+
+I am aware of the Town's May 2025 rejection of a citizen initiative and the Town Attorney's memorandum concluding that provisions establishing enforcement procedures, grandfathering processes, and mandatory reviews were administrative. I have studied that memorandum carefully. This ordinance contains none of those elements. It is a general prohibition — the cleanest form of legislative action.
+
+If the Town rejects this petition, I respectfully request that the rejection identify, with specificity, which provision of this ordinance is administrative and why, applying the *Vagneur* test. A conclusory statement that the initiative "is administrative" without section-by-section analysis is insufficient under C.R.S. § 31-11-106(1).
+
+### VI. LEGAL CONSEQUENCES OF IMPROPER REJECTION
+
+If this petition is rejected, I will pursue the following remedies:
+
+1. Judicial review under C.R.C.P. Rule 106(a)(4) for abuse of discretion.
+2. Mandamus under C.R.C.P. Rule 106(a)(2) to compel acceptance and placement on the ballot.
+3. Application for attorney fees and costs.
+
+### VII. REQUEST
+
+Please confirm receipt and acceptance of this petition for circulation within five (5) business days per C.R.S. § 31-11-106. Any basis for rejection must be provided in writing with specific legal citations.
+
+The question of whether government should conduct persistent video surveillance of its residents in public spaces is a policy determination that belongs to the People. This initiative places that question before them. The Town's role is ministerial: accept the petition and let the voters decide.
+
+Respectfully submitted,
+
+Peter McCarthy
+119 ½ Dorris Ave
+Paonia, Colorado 81428
+
+cc: Board of Trustees
+    Town Attorney Clayton M. Buchner
