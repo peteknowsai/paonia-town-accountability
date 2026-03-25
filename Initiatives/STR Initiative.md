@@ -130,3 +130,109 @@ Town Clerk
 **CERTIFICATION**
 
 I hereby certify that the foregoing ordinance was adopted by the qualified electors of the Town of Paonia, Colorado, at the election held on ______________________.
+
+---
+
+# COVER LETTER FOR SUBMISSION
+
+[Date]
+
+Samira M. Vetter, Town Clerk
+Town of Paonia
+214 Grand Avenue
+PO Box 460
+Paonia, CO 81428
+
+**Re: Submission of Citizen Initiative Petition — Short-Term Lodging Policy**
+
+Dear Ms. Vetter,
+
+I hereby submit this citizen initiative petition proposing an ordinance entitled the "Short-Term Lodging Policy." This ordinance establishes two land use classifications of general applicability: (1) resident-occupied hosting is a permitted use in every zoning district; and (2) non-resident short-term rentals are a prohibited use in every zoning district.
+
+I am aware that a prior STR initiative was rejected on May 28, 2025, with the Town Attorney concluding that "nearly every section of the proposed provision of the petition is administrative." This resubmission is a new ordinance drafted specifically to address each objection raised in that memorandum. For the reasons set forth below, no basis exists under C.R.S. § 31-11-106(1) to reject this petition.
+
+### I. THIS ORDINANCE IS LEGISLATIVE UNDER THE CONTROLLING TEST
+
+The Town Attorney's May 2025 memorandum cited *Vagneur v. City of Aspen*, 295 P.3d 493 (Colo. 2013) as authority for the rejection. *Vagneur* is indeed the controlling case — and it supports this initiative, not the rejection.
+
+*Vagneur* holds that legislative acts are those that "establish rules or policies of general applicability" governing "future conduct for the community at large." The Court distinguished legislative acts from administrative acts, which "involve the application or execution of existing policies to specific cases." The Court further held that the initiative power must be "liberally construed" in favor of the people's right to legislate.
+
+This ordinance contains three operative rules:
+
+1. Resident-occupied hosting is a permitted use in every zoning district. (Section 3(a))
+2. Non-resident short-term rentals are a prohibited use in every zoning district. (Section 4(a))
+3. No municipal license, permit, registration, or fee of any kind shall be required for resident-occupied hosting. (Section 3(b))
+
+Each is a rule of general applicability governing future conduct for the community at large. None directs the Town to take action in a specific case. None involves case-specific evaluation or specialized expertise. None targets an individual property, person, or application. This is what legislation looks like.
+
+### II. EACH PRIOR OBJECTION HAS BEEN ADDRESSED
+
+The Town Attorney's May 2025 memorandum identified six specific provisions as administrative. This ordinance eliminates or addresses every one:
+
+**A. "No Special-Use Review" (prior §6.06.020A)**
+
+The memorandum objected that stating "No Special-Use Review or other discretionary land-use approval" attempts to control administrative function. The current ordinance declares resident-occupied hosting a "permitted use" — the standard zoning classification used throughout the Town's own municipal code. Every line in the Town's zoning table that reads "Permitted" makes the identical declaration. If classifying a use as "permitted" is administrative, then the Town's entire zoning code was adopted illegally. It was not. It is legislative. So is this.
+
+**B. "No license, fee, or ongoing registry" (prior §6.06.020C)**
+
+The memorandum characterized the prohibition on fees as an attempt to control administrative function. The current ordinance retains this provision because it is legislative. Setting fee policy — including setting fees at zero for a class of activity — is a policy determination of general applicability. The Board legislates fee schedules. An initiative can do the same. *Vagneur* does not hold otherwise. Neither does *Witcher v. Canon City*, 716 P.2d 445 (Colo. 1986), which involved a specific rate-setting dispute, nor *City of Aurora v. Zwerdlinger*, 194 Colo. 192 (1977), which involved the adjustment of specific water rates — not a general policy prohibition. The Town Attorney's citation of these cases for the proposition that all fee-related provisions are categorically administrative is not supported by their holdings.
+
+**C. Grandfather Registration (prior §6.06.040)**
+
+The memorandum objected that this section required administrative action. This ordinance contains no grandfathering provision of any kind.
+
+**D. Proof-on-Demand Procedure (prior §6.06.060)**
+
+The memorandum objected that this section triggered administrative enforcement function. This ordinance contains no proof-on-demand procedure of any kind.
+
+**E. Enforcement and Penalties (prior §6.06.070)**
+
+The memorandum objected that the enforcement section directed administrative and judicial functions. This ordinance does not create any enforcement mechanism. Section 6(a) provides only that violations are "subject to penalties provided by the Paonia Municipal Code for ordinance violations" — a reference to the Town's existing enforcement framework. The ordinance does not prescribe penalties, create liens, establish appeals, or direct staff action. It defers entirely to existing law.
+
+**F. Mandatory Review and Amendment Limitations (prior §6.06.080)**
+
+The memorandum objected that directing a public review is administrative and that limiting amendment conflicts with state statute. This ordinance does not direct any public review. Section 7 provides that the ordinance may only be amended or repealed by vote of the registered electors. This is a standard provision in Colorado initiated ordinances and is expressly authorized by the initiative power reserved to the people under Article V, Section 1 of the Colorado Constitution.
+
+### III. WHAT REMAINS IS PURELY LEGISLATIVE
+
+After eliminating every provision the Town Attorney previously identified as administrative, this ordinance contains:
+
+- Two land use classifications (permitted use, prohibited use)
+- One fee prohibition (no license or fee for resident-occupied hosting)
+- A conflicts clause (standard)
+- A deference to existing enforcement law (standard)
+- A severability clause (standard)
+- A voter-only amendment provision (standard)
+
+No provision of this ordinance directs the Town to take or refrain from taking action in a specific case. No provision requires case-specific evaluation. No provision creates an administrative apparatus. The ordinance sets prospective rules of general applicability — the definition of legislative action under *Vagneur*.
+
+### IV. PAONIA IS A STATUTORY TOWN
+
+Paonia is organized under C.R.S. § 31-1-203 as a statutory municipality. The initiative power in statutory towns is governed by C.R.S. § 31-11-104 et seq. and must be construed in favor of the electorate. Any analysis applying home rule limitations or home rule case law to Paonia's initiative process is legally inapplicable.
+
+### V. THE VOTERS HAVE SPOKEN ON THIS ISSUE
+
+On April 1, 2025, the voters of Paonia rejected the Board's proposed STR regulations by a margin of 70.4% to 29.6% (381 to 160). This initiative reflects the policy direction the electorate has already indicated: permit residents to host guests in their own homes without government interference, while prohibiting absentee commercial operations. The clerk's role under C.R.S. § 31-11-106 is ministerial — to determine whether the petition proposes legislation, not whether the policy is desirable.
+
+### VI. LEGAL CONSEQUENCES OF IMPROPER REJECTION
+
+If this petition is rejected, I will pursue the following remedies:
+
+1. Judicial review under C.R.C.P. Rule 106(a)(4) for abuse of discretion.
+2. Mandamus under C.R.C.P. Rule 106(a)(2) to compel acceptance and placement on the ballot.
+3. Application for attorney fees and costs.
+
+The petition addresses every objection raised in the Town Attorney's prior memorandum. No basis for rejection remains. A rejection on grounds already remedied would constitute evidence that the Town's objection is to the policy, not the form — which is not a lawful basis for rejection under C.R.S. § 31-11-106(1).
+
+### VII. REQUEST
+
+Please confirm receipt and acceptance of this petition for circulation within five (5) business days per C.R.S. § 31-11-106. Any basis for rejection must be provided in writing with specific legal citations identifying which provision of this ordinance is administrative and why, applying the *Vagneur* test.
+
+Respectfully submitted,
+
+Peter McCarthy
+119 ½ Dorris Ave
+Paonia, Colorado 81428
+
+cc: Board of Trustees
+    Town Attorney Clayton M. Buchner
