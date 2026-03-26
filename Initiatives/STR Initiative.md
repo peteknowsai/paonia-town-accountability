@@ -1,7 +1,7 @@
 # STR Initiative
 
 **Status:** Draft v3 complete, ready for submission
-**Version:** v3 (March 2026) — complete rewrite to defeat "administrative" claims
+**Version:** v4 (March 2026) — removed host-present requirement, allowed non-resident STRs in commercial zones, added document-based residence test
 **Print-ready:** `~/Desktop/str-lodging-petition-v3-PRINT.docx` / `.pdf`
 **Google Doc:** [Working copy](https://docs.google.com/document/d/1yFCsDeNwfi7X5RleZeM3b69pRtoLFV5y2kLQtTXT-h8)
 **Public review:** [Paonia Initiatives - Public Review](https://drive.google.com/drive/folders/1YSGiBN2wpvHLE0adcAGKfLDscAtyrm4C)
@@ -12,22 +12,22 @@
 - **v3 (March 2026):** Complete rewrite. Pure land use policy framing. No grandfathering, no phasing, no enforcement timelines, no fee schedules. Stripped every hook the clerk could grab.
 
 ## Summary
-Establishes land use policy: resident-occupied hosting is a permitted use in every zoning district (no license/fee required). Non-resident short-term rentals are a prohibited use in every zoning district. Voter-only amendment/repeal.
+Establishes land use policy: principal residence hosting is a permitted use in every zoning district (no license/fee required). Non-resident short-term rentals are prohibited in residential zones but permitted in commercial/non-residential zones. Voter-only amendment/repeal.
 
-## v3 Changes (from v2)
-- **WHEREAS recitals cite *Vagneur v. City of Aspen*** — the controlling test the clerk's own attorney referenced
-- **Killed "Prior authorizations" section** — terminating specific existing permits looked administrative. Replaced with general conflicts clause.
-- **Killed "No nonconforming status"** — prohibited use can't be nonconforming by definition
-- **Effective date fixed** — upon certification (not 30 days), per Bill's feedback that initiated ordinances take effect on certification
-- **Host must be present** — "while the host resides in the dwelling unit during the guest's stay" draws a bright line
-- **Zoning language throughout** — "permitted use" / "prohibited use" / "in every zoning district" = textbook legislative
+## v4 Changes (from v3)
+- **Removed host-present requirement** — residents can rent their home when they're away (that's the point)
+- **Non-resident STRs allowed in commercial zones** — less restrictive, only bans them in residential districts
+- **Document-based residence test** — adopted from Woodland Park Ordinance 1469 (survived court challenge March 2025). Two of four documents: driver's license, voter registration, vehicle registration, tax return. Self-executing, no staff discretion.
+- **Renamed "resident-occupied hosting" to "principal residence hosting"** — cleaner since host doesn't have to be present
+- **Added "residential zoning district" definition** — references the town's own code to determine which districts are residential
 
-## What Was Removed to Defeat "Administrative" Claims
+## What Was Removed to Defeat "Administrative" Claims (since v1)
 - No grandfathering scheme
 - No phasing timeline
 - No enforcement timelines or proof windows
 - No fee schedules of any kind
 - No specific permit termination language
+- No host-present requirement (removes enforcement/verification burden)
 
 ## Key Legal Anchors
 - *Vagneur v. City of Aspen* — legislative acts are rules of general applicability
@@ -62,7 +62,7 @@ Establishes land use policy: resident-occupied hosting is a permitted use in eve
 
 **WHEREAS**, on April 1, 2025, the voters of Paonia rejected a ballot measure proposing more restrictive short-term rental regulations, demonstrating the electorate's policy preference; and
 
-**WHEREAS**, the People of Paonia wish to establish a clear, town-wide land use policy that permits residents to host short-term guests in their own homes while prohibiting the conversion of residential housing stock into commercial lodging operations by absentee owners;
+**WHEREAS**, the People of Paonia wish to establish a clear land use policy that permits residents to host short-term guests in their own homes without licensure or fees, while preserving the residential character of neighborhoods by restricting absentee-owned commercial lodging operations to non-residential zoning districts;
 
 **NOW, THEREFORE, BE IT ORDAINED BY THE PEOPLE OF THE TOWN OF PAONIA, COLORADO:**
 
@@ -76,25 +76,29 @@ For purposes of this ordinance:
 
 (a) **"Short-term lodging"** means the rental or hosting of guests for compensation in a dwelling unit for fewer than thirty (30) consecutive days.
 
-(b) **"Principal residence"** means the one dwelling unit in which a natural person resides as their true, fixed, and permanent home and to which they intend to return. A person may have only one principal residence. Occupancy of at least one hundred eighty-three (183) days per calendar year creates a rebuttable presumption of principal residence.
+(b) **"Principal residence"** means the one dwelling unit in which a natural person resides as their true, fixed, and permanent home and to which they intend to return. A person may have only one principal residence. Principal residence is established by two or more of the following current documents: (i) Colorado driver's license or state identification card showing the address; (ii) Colorado voter registration at the address; (iii) motor vehicle registration at the address; (iv) federal or state income tax return designating the address as primary residence. Occupancy of at least one hundred eighty-three (183) days per calendar year creates a rebuttable presumption of principal residence.
 
-(c) **"Resident-occupied hosting"** means short-term lodging in a dwelling unit that is the host's principal residence, while the host resides in the dwelling unit during the guest's stay.
+(c) **"Principal residence hosting"** means short-term lodging in a dwelling unit that is the host's principal residence.
 
-(d) **"Non-resident short-term rental"** means any short-term lodging that does not qualify as resident-occupied hosting.
+(d) **"Non-resident short-term rental"** means any short-term lodging in a dwelling unit that is not the host's principal residence.
 
-### Section 3. Resident-Occupied Hosting — Permitted Use.
+(e) **"Residential zoning district"** means any zoning district in which the Town's municipal code designates single-family or multi-family residential use as a permitted use.
 
-(a) **Permitted by right.** Resident-occupied hosting is a permitted use in every zoning district. No special-use permit, conditional-use permit, or other discretionary land-use approval is required.
+### Section 3. Principal Residence Hosting — Permitted Use.
 
-(b) **No license or fee.** No municipal license, permit, registration, or fee of any kind shall be required for resident-occupied hosting.
+(a) **Permitted by right.** Principal residence hosting is a permitted use in every zoning district. No special-use permit, conditional-use permit, or other discretionary land-use approval is required.
+
+(b) **No license or fee.** No municipal license, permit, registration, or fee of any kind shall be required for principal residence hosting.
 
 (c) **General laws preserved.** Nothing in this ordinance limits the applicability of building, fire, noise, nuisance, or health regulations of general applicability that do not single out or discriminate against short-term lodging.
 
-### Section 4. Non-Resident Short-Term Rentals — Prohibited Use.
+### Section 4. Non-Resident Short-Term Rentals — Restricted Use.
 
-(a) **Prohibited in all districts.** Non-resident short-term rentals are a prohibited land use in every zoning district.
+(a) **Prohibited in residential districts.** Non-resident short-term rentals are a prohibited land use in every residential zoning district.
 
-(b) **Unlawful activity.** It is unlawful to operate, advertise, or offer a non-resident short-term rental within the Town.
+(b) **Permitted in non-residential districts.** Non-resident short-term rentals are a permitted land use in any zoning district that is not a residential zoning district, subject to any generally applicable regulations of the municipal code.
+
+(c) **Unlawful activity.** It is unlawful to operate, advertise, or offer a non-resident short-term rental in a residential zoning district.
 
 ### Section 5. Conflicts with Existing Law.
 
