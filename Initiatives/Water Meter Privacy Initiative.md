@@ -1,7 +1,7 @@
 # Water Meter Privacy Initiative
 
-**Status:** Draft v2 complete, under review
-**Version:** v2 (March 2026) — sourced from FY-2026 budget, real numbers
+**Status:** Draft v3 complete, ready for submission
+**Version:** v3 (March 2026) — removed data retention directive to eliminate administrative hook
 **Print-ready:** `~/Desktop/water-meter-privacy-petition-v2-PRINT.docx` / `.pdf`
 **Google Doc:** [Working copy](https://docs.google.com/document/d/1WAH9mQNLkJDegMf0YR2QCpwf1yZIm3Ny8q9lOS-j-Eo)
 **Public review:** [Paonia Initiatives - Public Review](https://drive.google.com/drive/folders/1YSGiBN2wpvHLE0adcAGKfLDscAtyrm4C)
@@ -106,8 +106,6 @@ For purposes of this ordinance:
 (a) Water usage data collected by the Town shall be used solely for billing, leak detection, and water system management.
 
 (b) The Town shall not sell, share, or disclose individualized water usage data to any third party except as required by a court order, subpoena, or express provision of state or federal law.
-
-(c) The Town shall not retain individualized water usage data beyond the current billing cycle and the immediately preceding twelve (12) billing cycles.
 
 ### Section 5. Contracts Void.
 

@@ -1,7 +1,7 @@
 # Camera Ban Initiative
 
-**Status:** Draft v3 complete, ready for submission
-**Version:** v3 (March 2026) — added privacy-led recitals, critical infrastructure exception, tightened from v2
+**Status:** Draft v4 complete, ready for submission
+**Version:** v4 (March 2026) — removed compliance period and official misconduct provision to eliminate administrative hooks
 **Print-ready:** `~/Desktop/camera-ban-petition-v3-PRINT.docx` / `.pdf`
 **Google Doc:** [Working copy](https://docs.google.com/document/d/1ddHGTw5WOGnEwqCxRP_GlpU0rlIomuh0zPGtBiV2m-8)
 **Public review:** [Paonia Initiatives - Public Review](https://drive.google.com/drive/folders/1YSGiBN2wpvHLE0adcAGKfLDscAtyrm4C)
@@ -75,7 +75,7 @@ For purposes of this ordinance:
 
 (b) **No third-party circumvention.** The Town shall not contract with or authorize any third party to install, operate, or maintain surveillance cameras on public property on the Town's behalf.
 
-(c) **Compliance period.** The Town shall have ninety (90) days from the effective date of this ordinance to come into compliance with the prohibition established in subsections (a) and (b).
+(c) **Existing cameras.** Any surveillance camera installed on public property as of the effective date of this ordinance that does not fall within the exceptions in Section 4 is in violation of this ordinance.
 
 ### Section 4. Exceptions.
 
@@ -98,8 +98,6 @@ Any contract, agreement, or expenditure of public funds that violates this ordin
 (a) Any registered elector of the Town may seek injunctive relief in Delta County District Court to enforce this ordinance.
 
 (b) A prevailing plaintiff shall be entitled to reasonable attorney fees and costs.
-
-(c) Any Town official who knowingly authorizes action in violation of this ordinance commits official misconduct.
 
 ### Section 7. Amendment and Repeal.
 
